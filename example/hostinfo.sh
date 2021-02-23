@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "Host:" 
+echo -e "Host name:" 
 hostname
 echo "Interface:"
 ip a
